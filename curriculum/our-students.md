@@ -7,15 +7,15 @@ permalink: /curriculum/our-students/
 
 <div class="card-grid">
   <div class="card">
-    <img src="/ps290-jekyll/assets/images/curriculum/students-1.png" alt="Children publishing their work">
+    <img src="/assets/images/curriculum/students-1.png" alt="Children publishing their work">
     <div class="card__body"><p>Children publishing their work</p></div>
   </div>
   <div class="card">
-    <img src="/ps290-jekyll/assets/images/curriculum/students-2.png" alt="Colonial America Study">
+    <img src="/assets/images/curriculum/students-2.png" alt="Colonial America Study">
     <div class="card__body"><p>Colonial America Study</p></div>
   </div>
   <div class="card">
-    <img src="/ps290-jekyll/assets/images/curriculum/students-3.png" alt="Music Class">
+    <img src="/assets/images/curriculum/students-3.png" alt="Music Class">
     <div class="card__body"><p>Music Class</p></div>
   </div>
 </div>

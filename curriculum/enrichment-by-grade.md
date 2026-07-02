@@ -6,7 +6,7 @@ permalink: /curriculum/enrichment-by-grade/
 ---
 
 <div style="display:flex; align-items:flex-start; gap:16px; margin-bottom:1.6em;">
-  <img src="/ps290-jekyll/assets/images/curriculum/enrichment-kindergarten.png" alt="" style="width:80px; flex-shrink:0;">
+  <img src="/assets/images/curriculum/enrichment-kindergarten.png" alt="" style="width:80px; flex-shrink:0;">
   <div>
     <h2 style="margin:0 0 6px;">Kindergarten</h2>
     <ul style="margin:0;">
@@ -17,7 +17,7 @@ permalink: /curriculum/enrichment-by-grade/
 </div>
 
 <div style="display:flex; align-items:flex-start; gap:16px; margin-bottom:1.6em;">
-  <img src="/ps290-jekyll/assets/images/curriculum/enrichment-1st.png" alt="" style="width:80px; flex-shrink:0;">
+  <img src="/assets/images/curriculum/enrichment-1st.png" alt="" style="width:80px; flex-shrink:0;">
   <div>
     <h2 style="margin:0 0 6px;">1st Grade</h2>
     <ul style="margin:0;">
@@ -28,7 +28,7 @@ permalink: /curriculum/enrichment-by-grade/
 </div>
 
 <div style="display:flex; align-items:flex-start; gap:16px; margin-bottom:1.6em;">
-  <img src="/ps290-jekyll/assets/images/curriculum/enrichment-2nd.png" alt="" style="width:80px; flex-shrink:0;">
+  <img src="/assets/images/curriculum/enrichment-2nd.png" alt="" style="width:80px; flex-shrink:0;">
   <div>
     <h2 style="margin:0 0 6px;">2nd Grade</h2>
     <ul style="margin:0;">
@@ -39,7 +39,7 @@ permalink: /curriculum/enrichment-by-grade/
 </div>
 
 <div style="display:flex; align-items:flex-start; gap:16px; margin-bottom:1.6em;">
-  <img src="/ps290-jekyll/assets/images/curriculum/enrichment-3rd.png" alt="" style="width:80px; flex-shrink:0;">
+  <img src="/assets/images/curriculum/enrichment-3rd.png" alt="" style="width:80px; flex-shrink:0;">
   <div>
     <h2 style="margin:0 0 6px;">3rd Grade</h2>
     <ul style="margin:0;">
@@ -51,7 +51,7 @@ permalink: /curriculum/enrichment-by-grade/
 </div>
 
 <div style="display:flex; align-items:flex-start; gap:16px; margin-bottom:1.6em;">
-  <img src="/ps290-jekyll/assets/images/curriculum/enrichment-4th.png" alt="" style="width:80px; flex-shrink:0;">
+  <img src="/assets/images/curriculum/enrichment-4th.png" alt="" style="width:80px; flex-shrink:0;">
   <div>
     <h2 style="margin:0 0 6px;">4th Grade</h2>
     <ul style="margin:0;">
@@ -63,7 +63,7 @@ permalink: /curriculum/enrichment-by-grade/
 </div>
 
 <div style="display:flex; align-items:flex-start; gap:16px; margin-bottom:1.6em;">
-  <img src="/ps290-jekyll/assets/images/curriculum/enrichment-5th.png" alt="" style="width:80px; flex-shrink:0;">
+  <img src="/assets/images/curriculum/enrichment-5th.png" alt="" style="width:80px; flex-shrink:0;">
   <div>
     <h2 style="margin:0 0 6px;">5th Grade</h2>
     <ul style="margin:0;">

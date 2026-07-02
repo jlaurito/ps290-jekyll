@@ -5,7 +5,7 @@ section: About PS 290
 permalink: /about/
 ---
 
-![PS 290 students](/ps290-jekyll/assets/images/about/about-us-photo.jpeg){: style="float:right; max-width:35%; margin:0 0 12px 16px;"}
+![PS 290 students](/assets/images/about/about-us-photo.jpeg){: style="float:right; max-width:35%; margin:0 0 12px 16px;"}
 
 **Manhattan New School (MNS), P.S. 290**, is a true community of learners as evidenced by our rigorous academics and the dynamic relationship between students, teachers, administrators, staff and families. The essence of our philosophy is to encourage a child's natural curiosity, to develop a commitment to lifelong learning and to promote social responsibility as global citizens. This climate of academic dedication, respect and understanding contributes to the vibrant learning community that is our school.
 

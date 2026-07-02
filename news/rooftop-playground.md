@@ -5,7 +5,7 @@ section: News & Announcements
 permalink: /news/rooftop-playground/
 ---
 
-![](/ps290-jekyll/assets/images/news/rooftop-playground.jpeg)
+![](/assets/images/news/rooftop-playground.jpeg)
 
 East Side Feed covered work being done this summer at the school.
 
