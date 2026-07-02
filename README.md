@@ -1,6 +1,6 @@
 # ps290.org — Jekyll mirror
 
-A static Jekyll copy of [ps290.org](https://www.ps290.org/) (PS 290 Manhattan New School), built to match the current Edlio-hosted site's content and look.
+A static Jekyll copy of [ps290.org](https://www.ps290.org/) (PS 290 Manhattan New School), built to match the current Edlio-hosted site's content and look. This is built on the jlaurito github account: https://github.com/jlaurito/ps290-jekyll:
 
 ## What's included
 
