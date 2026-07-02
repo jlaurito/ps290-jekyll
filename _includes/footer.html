@@ -1,0 +1,34 @@
+<footer class="site-footer">
+  <div class="wrap site-footer__grid">
+    <div>
+      <img class="site-footer__logo" src="{{ '/assets/images/pics/footer_school_logo.png' | relative_url }}" alt="">
+      <img class="site-footer__logo" src="{{ '/assets/images/pics/nycps-logo-color.png' | relative_url }}" alt="NYC Public Schools" style="width:90px; margin-top:8px;">
+    </div>
+    <div>
+      <h4>Useful Links</h4>
+      <ul>
+        {% for link in site.data.footer_links %}
+          <li><a href="{{ link.url }}">{{ link.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+    <div>
+      <h4>Contact</h4>
+      <ul>
+        <li><a href="https://www.google.com/maps/search/?api=1&query=311+East+82nd+Street+New+York+NY+10028">{{ site.address_line1 }}, {{ site.address_line2 }}</a></li>
+        <li>Phone: <a href="tel:+12127347127">{{ site.phone }}</a></li>
+        <li>Fax: {{ site.fax }}</li>
+      </ul>
+      <div class="social-links">
+        <a href="{{ site.facebook_url }}" aria-label="PS 290 on Facebook, @manhattannewschool">
+          <svg width="26" height="26" viewBox="0 0 24 24"><circle cx="12" cy="12" r="12" fill="#1877f2"/><path d="M15.5 12.3h-2v7h-2.9v-7H9v-2.5h1.6V8.2c0-1.6.8-4 4-4l2.9.01v2.4h-2.1c-.3 0-.8.2-.8 1v1.2h2.9l-.4 2.5z" fill="#fff"/></svg>
+          @manhattannewschool
+        </a>
+        <a href="{{ site.instagram_url }}" aria-label="MNS PTA on Instagram, @mnspta">
+          <svg width="26" height="26" viewBox="0 0 24 24"><rect width="24" height="24" rx="6" fill="#D73576"/><rect x="6" y="6" width="12" height="12" rx="4" fill="none" stroke="#fff" stroke-width="1.6"/><circle cx="12" cy="12" r="3" fill="none" stroke="#fff" stroke-width="1.6"/><circle cx="17" cy="7" r="1.1" fill="#fff"/></svg>
+          @mnspta
+        </a>
+      </div>
+    </div>
+  </div>
+</footer>

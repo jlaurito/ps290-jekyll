@@ -1,0 +1,89 @@
+# Main navigation. `external: true` items link off-site (mostly to mnspta.org,
+# the PTA's own Jekyll site) and open in the same tab, matching the original.
+- title: About PS 290
+  items:
+    - title: About Us
+      url: /about/
+    - title: Awards
+      url: /about/awards/
+    - title: Announcements
+      url: /about/announcements/
+    - title: Principal's Page
+      url: /about/principals-page/
+    - title: Enrollment
+      url: /about/enrollment/
+    - title: Visiting the School
+      url: /about/visiting-the-school/
+    - title: Video Tour
+      url: /about/video-tour/
+    - title: Afterschool Program
+      url: /about/afterschool-program/
+    - title: Contact Us
+      url: /about/contact-us/
+    - title: School Leadership Team (SLT)
+      url: /about/slt/
+    - title: Donate
+      url: https://mnspta.org/annual-appeal-2-2/
+      external: true
+
+- title: Curriculum
+  items:
+    - title: Our Students
+      url: /curriculum/our-students/
+    - title: Our Curriculum
+      url: /curriculum/our-curriculum/
+    - title: Enrichment by Grade
+      url: /curriculum/enrichment-by-grade/
+    - title: 3-K & Pre-K
+      url: /curriculum/pre-k/
+
+- title: Families
+  items:
+    - title: Required Documents for All Students
+      url: /families/required-documents/
+    - title: New Families
+      url: /about/enrollment/
+    - title: Applying to Middle School
+      url: /families/applying-to-middle-school/
+    - title: Sign Up for Emails and Alerts
+      url: https://mnspta.org/neon-account/
+      external: true
+    - title: Afterschool Program
+      url: /about/afterschool-program/
+    - title: Student Meals
+      url: /families/student-meals/
+    - title: Illness / How to Report an Absence
+      url: /families/illness-absence/
+
+- title: PTA
+  items:
+    - title: What We Do
+      url: https://mnspta.org/about-mns-pta/
+      external: true
+    - title: Executive Board and Parent Leaders
+      url: https://mnspta.org/executive-board/
+      external: true
+    - title: PTA Meeting Dates
+      url: /pta/meeting-dates/
+    - title: Volunteer
+      url: https://mnspta.org/and-more/
+      external: true
+    - title: Fundraising
+      url: https://mnspta.org/annual-appeal-2-2/
+      external: true
+    - title: MNS Cares - Charity Events
+      url: https://mnspta.org/mns-cares/
+      external: true
+    - title: School Store
+      url: https://ps290pta.app.neoncrm.com/np/clients/ps290pta/giftstore.jsp
+      external: true
+
+- title: News & Announcements
+  url: /news/
+
+- title: Staff
+  url: /staff/directory/
+
+- title: Donate
+  url: https://mnspta.org/annual-appeal-2-2/
+  external: true

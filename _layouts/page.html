@@ -1,0 +1,31 @@
+---
+layout: default
+---
+<div class="wrap">
+  {% assign section_data = nil %}
+  {% for s in site.data.nav %}
+    {% if s.title == page.section %}{% assign section_data = s %}{% endif %}
+  {% endfor %}
+
+  <p class="breadcrumb">
+    <a href="{{ '/' | relative_url }}">Home</a>
+    {% if section_data %} &raquo; {{ section_data.title }}{% endif %}
+    &raquo; {{ page.title }}
+  </p>
+
+  <article class="page-content">
+    {{ content }}
+  </article>
+
+  {% if section_data.items %}
+  <nav aria-label="{{ section_data.title }} section pages" class="section-subnav">
+    <ul>
+      {% for item in section_data.items %}
+        {% unless item.external %}
+          <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
+        {% endunless %}
+      {% endfor %}
+    </ul>
+  </nav>
+  {% endif %}
+</div>

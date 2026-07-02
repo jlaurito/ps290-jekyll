@@ -1,0 +1,49 @@
+<header class="site-header">
+  <div class="wrap site-header__top">
+    <a class="site-title" href="{{ '/' | relative_url }}">
+      <img class="site-title__logo" src="{{ '/assets/images/pics/school_logo.png' | relative_url }}" alt="PS 290 Manhattan New School logo">
+      <span class="site-title__text">PS 290 Manhattan New School</span>
+    </a>
+    <button class="nav-toggle" id="nav-toggle" aria-expanded="false" aria-controls="main-nav">Menu</button>
+  </div>
+  <nav class="main-nav" id="main-nav" aria-label="Main navigation">
+    <ul class="main-nav__list">
+      {% for section in site.data.nav %}
+        <li class="main-nav__item">
+          {% if section.items %}
+            <a class="main-nav__link" href="{{ section.items[0].url }}">{{ section.title }}</a>
+            <ul class="main-nav__submenu">
+              {% for item in section.items %}
+                <li>
+                  {% if item.external %}
+                    <a href="{{ item.url }}">{{ item.title }}</a>
+                  {% else %}
+                    <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+                  {% endif %}
+                </li>
+              {% endfor %}
+            </ul>
+          {% else %}
+            {% if section.external %}
+              <a class="main-nav__link" href="{{ section.url }}">{{ section.title }}</a>
+            {% else %}
+              <a class="main-nav__link" href="{{ section.url | relative_url }}">{{ section.title }}</a>
+            {% endif %}
+          {% endif %}
+        </li>
+      {% endfor %}
+    </ul>
+  </nav>
+</header>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    var toggle = document.getElementById('nav-toggle');
+    var nav = document.getElementById('main-nav');
+    if (toggle && nav) {
+      toggle.addEventListener('click', function () {
+        var open = nav.classList.toggle('is-open');
+        toggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+      });
+    }
+  });
+</script>

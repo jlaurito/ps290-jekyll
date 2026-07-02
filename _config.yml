@@ -1,0 +1,31 @@
+title: PS 290 Manhattan New School
+description: >-
+  PS 290 Manhattan New School is a NYC Public Schools elementary school
+  (3-K through 5th grade) located on the Upper East Side of Manhattan.
+url: "https://www.ps290.org"
+baseurl: ""
+
+# Building
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+permalink: pretty
+
+# Contact / footer info used across includes
+address_line1: "311 East 82nd Street"
+address_line2: "New York, NY 10028"
+phone: "(212) 734-7127"
+fax: "(212) 772-8879"
+facebook_url: "https://www.facebook.com/groups/manhattannewschool"
+instagram_url: "https://www.instagram.com/mnspta/"
+pta_url: "https://mnspta.org"
+
+plugins:
+  - jekyll-sitemap
+
+exclude:
+  - scripts/
+  - README.md
+  - Gemfile
+  - Gemfile.lock
