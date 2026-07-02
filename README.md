@@ -12,7 +12,7 @@ A static Jekyll copy of [ps290.org](https://www.ps290.org/) (PS 290 Manhattan Ne
 
 - Site search, language switcher (Google Translate widget)
 - `/apps/events/` and the homepage events carousel — no calendar/date logic is reproduced
-- All "Edlio Login" / "Powered by Edlio" references
+- All "Edlio Login" / "Powered by Edlio" references [TODO: fix]
 
 ## Verification status
 
