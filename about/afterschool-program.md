@@ -7,7 +7,7 @@ permalink: /about/afterschool-program/
 
 [After School Registration](https://ifafterschool.jumbula.com/ps-290){: .button}
 
-![Afterschool program](/assets/images/about/afterschool.png)
+![Afterschool program](/ps290-jekyll/assets/images/about/afterschool.png)
 
 Welcome to the MNS Afterschool Program! The Afterschool program is only open to students at PS 290 Manhattan New School. The program allows your children to experience new activities, develop self-confidence, improve their social skills and make lasting memories. The fall term runs from September through January and the spring term runs from February through June. We offer courses for grades **Pre-K – 5th grade** (not 3-K), taught by professionals covering a variety of interests. Favorite classes and instructors from previous terms return year after year, and we're always adding new classes.
 

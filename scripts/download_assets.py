@@ -18,7 +18,7 @@ Reads scripts/asset-manifest.tsv (format: local_path<TAB>source_url) and:
   2. Skips files that already exist locally (safe to re-run)
   3. Reports any failures at the end so they can be retried/investigated
 
-Content files already reference the local paths (e.g. /assets/images/...),
+Content files already reference the local paths (e.g. /ps290-jekyll/assets/images/...),
 so once the download completes, no further find-and-replace is needed --
 just build and deploy the site.
 """

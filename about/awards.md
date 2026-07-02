@@ -5,7 +5,7 @@ section: About PS 290
 permalink: /about/awards/
 ---
 
-[![National Blue Ribbon School Seal](/assets/images/about/blue-ribbon-seal.jpg)](/assets/images/about/blue-ribbon-seal.jpg)
+[![National Blue Ribbon School Seal](/ps290-jekyll/assets/images/about/blue-ribbon-seal.jpg)](/ps290-jekyll/assets/images/about/blue-ribbon-seal.jpg)
 
 **P.S. 290 Manhattan New School is an award-winning elementary school with students in 3-K – 5th Grade.**
 

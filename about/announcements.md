@@ -5,7 +5,7 @@ section: About PS 290
 permalink: /about/announcements/
 ---
 
-![](/assets/images/about/announcements-admissions.jpeg){: style="float:right; max-width:25%; margin:0 0 12px 16px;"}
+![](/ps290-jekyll/assets/images/about/announcements-admissions.jpeg){: style="float:right; max-width:25%; margin:0 0 12px 16px;"}
 
 ### Admissions for New Students
 
@@ -17,7 +17,7 @@ Questions? Email [ps290enrollment@schools.nyc.gov](mailto:ps290enrollment@school
 
 <div style="clear:both;"></div>
 
-![](/assets/images/about/announcements-pta-meetings.jpeg){: style="float:right; max-width:25%; margin:0 0 12px 16px;"}
+![](/ps290-jekyll/assets/images/about/announcements-pta-meetings.jpeg){: style="float:right; max-width:25%; margin:0 0 12px 16px;"}
 
 ### PTA Meetings – Please Join Us!
 
@@ -27,7 +27,7 @@ We will hold monthly PTA meetings at 7:00pm. We encourage everyone to attend! We
 
 <div style="clear:both;"></div>
 
-![](/assets/images/about/announcements-resources.jpeg){: style="float:right; max-width:25%; margin:0 0 12px 16px;"}
+![](/ps290-jekyll/assets/images/about/announcements-resources.jpeg){: style="float:right; max-width:25%; margin:0 0 12px 16px;"}
 
 ### Resources for Families
 
@@ -37,7 +37,7 @@ We will hold monthly PTA meetings at 7:00pm. We encourage everyone to attend! We
 
 <div style="clear:both;"></div>
 
-![](/assets/images/about/announcements-health-safety.jpeg){: style="float:right; max-width:25%; margin:0 0 12px 16px;"}
+![](/ps290-jekyll/assets/images/about/announcements-health-safety.jpeg){: style="float:right; max-width:25%; margin:0 0 12px 16px;"}
 
 ### Health & Safety Updates
 
@@ -52,7 +52,7 @@ Please review [NYC guidelines here](https://www.nyc.gov/site/doh/covid/covid-19-
 
 <div style="clear:both;"></div>
 
-![](/assets/images/about/announcements-sick.jpeg){: style="float:right; max-width:25%; margin:0 0 12px 16px;"}
+![](/ps290-jekyll/assets/images/about/announcements-sick.jpeg){: style="float:right; max-width:25%; margin:0 0 12px 16px;"}
 
 ### What To Do If Your Child Is Sick
 
@@ -72,7 +72,7 @@ Please review [NYC guidelines here](https://www.nyc.gov/site/doh/covid/covid-19-
 
 <div style="clear:both;"></div>
 
-![](/assets/images/about/announcements-emergency-contact.jpeg){: style="float:right; max-width:25%; margin:0 0 12px 16px;"}
+![](/ps290-jekyll/assets/images/about/announcements-emergency-contact.jpeg){: style="float:right; max-width:25%; margin:0 0 12px 16px;"}
 
 ### Complete Your Emergency Contact Information Now
 

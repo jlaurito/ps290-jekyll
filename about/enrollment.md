@@ -11,7 +11,7 @@ Type your address into the DOE School Search app to find out if you are within t
 
 [Check Now](https://www.schools.nyc.gov/find-a-school){: .button}
 
-![PS 290 zone map](/assets/images/about/enrollment-zone-map.jpeg)
+![PS 290 zone map](/ps290-jekyll/assets/images/about/enrollment-zone-map.jpeg)
 
 **PS 290 is a zoned school.** We must enroll students who live in our zone for Kindergarten through 5th grade. You cannot register until you live in our school zone.
 
