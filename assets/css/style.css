@@ -236,9 +236,23 @@ h1, h2, h3, h4, h5 {
 
 /* ---------- Homepage ---------- */
 .hero-bg {
+  position: relative;
   background-size: cover;
   background-position: center;
   padding: 40px 0;
+}
+.hero-bg::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-image: inherit;
+  background-size: inherit;
+  background-position: inherit;
+  filter: grayscale(100%);
+}
+.hero-bg .wrap {
+  position: relative;
+  z-index: 1;
 }
 .hero-card {
   max-width: 560px;
