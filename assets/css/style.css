@@ -383,9 +383,9 @@ h1, h2, h3, h4, h5 {
   border-radius: 6px;
   padding: 12px 14px;
 }
-.staff-list .staff-name { font-weight: 700; color: var(--color-navy); }
+.staff-list .staff-name { display: block; font-weight: 700; color: var(--color-navy); }
 .staff-list .staff-role { display: block; color: var(--color-text-light); font-size: 0.9rem; margin: 2px 0 6px; }
-.staff-list a { font-size: 0.9rem; }
+.staff-list a { display: block; font-size: 0.9rem; margin-top: 2px; overflow-wrap: break-word; }
 
 /* ---------- Footer ---------- */
 .site-footer {
