@@ -74,9 +74,6 @@
     - title: MNS Cares - Charity Events
       url: https://mnspta.org/mns-cares/
       external: true
-    - title: School Store
-      url: https://ps290pta.app.neoncrm.com/np/clients/ps290pta/giftstore.jsp
-      external: true
 
 - title: News & Announcements
   url: /news/
