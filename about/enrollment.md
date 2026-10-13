@@ -1,3 +1,11 @@
+// Removed content - saved for later:
+//
+// ## Fall 2026 Admissions
+//
+// **Kindergarten:** children born in 2021; application window is December 9 – January 23, 2026.
+// 
+// **3-K and Pre-K:** children born in 2023 (3-K) and 2022 (Pre-K 4s); apply January 14 – February 27, 2026.
+
 ---
 layout: page
 title: Enrollment
@@ -23,11 +31,7 @@ Your zoned school is determined by your official home address, not your place of
 
 **To confirm your zoned school, you must call 311 or use this tool:** [www.schools.nyc.gov/find-a-school](https://www.schools.nyc.gov/find-a-school)
 
-## Fall 2026 Admissions
-
-**Kindergarten:** children born in 2021; application window is December 9 – January 23, 2026.
-
-**3-K and Pre-K:** children born in 2023 (3-K) and 2022 (Pre-K 4s); apply January 14 – February 27, 2026.
+## Admissions
 
 See the [DOE website](https://www.schools.nyc.gov/enrollment/enroll-grade-by-grade) for instructions and additional details. For grades 1–5, email [ps290enrollment@schools.nyc.gov](mailto:ps290enrollment@schools.nyc.gov).
 
@@ -35,7 +39,11 @@ See the [DOE website](https://www.schools.nyc.gov/enrollment/enroll-grade-by-gra
 
 A virtual tour of the school is available on our [Video Tour](/about/video-tour/) page.
 
-We have completed our in-person school tours.
+Information Sessions will be offered for parents/guardians of prospective students starting next Fall.  Parents must be NEW to the school, not continuing families.
+
+1) November 24 - Tuesday, 8:45 - 9:15am. KINDERGARTEN or GRADE 1-5 APPLICANTS ONLY: [Sign up here](https://docs.google.com/forms/d/e/1FAIpQLSdYzI0lqFm4k4c0upkahClEpLsqVMe7BbZ9KsGBGP4TCGsv0Q/viewform?usp=header)
+2) December 8 - Tuesday, 8:45 - 9:15am.  [Sign up here](https://docs.google.com/forms/d/e/1FAIpQLScKCtwTnjO8ErRCBmITNg4-j98C5r6s0755xHR1o6w3z23GyQ/viewform?usp=publish-editor)
+3) January 12 - Tuesday, 8:45 - 9:15am.  [Sign up here](https://docs.google.com/forms/d/e/1FAIpQLSdMgWf2pWMVCymXhVHlLJJ9o2a0GYZCFWI_bJGwJbk_YlpBpA/viewform?usp=publish-editor)
 
 **Enrollment questions?** Please contact [PS290Enrollment@schools.nyc.gov](mailto:PS290Enrollment@schools.nyc.gov).
 
