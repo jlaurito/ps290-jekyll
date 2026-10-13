@@ -33,9 +33,9 @@ A virtual tour of the school is available on our [Video Tour](/about/video-tour/
 
 Information Sessions will be offered for parents/guardians of prospective students starting next Fall.  Parents must be NEW to the school, not continuing families.
 
-1) November 24 - Tuesday, 8:45 - 9:15am. KINDERGARTEN or GRADE 1-5 APPLICANTS ONLY: [Sign up here](https://docs.google.com/forms/d/e/1FAIpQLSdYzI0lqFm4k4c0upkahClEpLsqVMe7BbZ9KsGBGP4TCGsv0Q/viewform?usp=header)
-2) December 8 - Tuesday, 8:45 - 9:15am.  [Sign up here](https://docs.google.com/forms/d/e/1FAIpQLScKCtwTnjO8ErRCBmITNg4-j98C5r6s0755xHR1o6w3z23GyQ/viewform?usp=publish-editor)
-3) January 12 - Tuesday, 8:45 - 9:15am.  [Sign up here](https://docs.google.com/forms/d/e/1FAIpQLSdMgWf2pWMVCymXhVHlLJJ9o2a0GYZCFWI_bJGwJbk_YlpBpA/viewform?usp=publish-editor)
+- November 24 - Tuesday, 8:45 - 9:15am. KINDERGARTEN or GRADE 1-5 APPLICANTS ONLY: [Sign up here](https://docs.google.com/forms/d/e/1FAIpQLSdYzI0lqFm4k4c0upkahClEpLsqVMe7BbZ9KsGBGP4TCGsv0Q/viewform?usp=header)
+- December 8 - Tuesday, 8:45 - 9:15am.  [Sign up here](https://docs.google.com/forms/d/e/1FAIpQLScKCtwTnjO8ErRCBmITNg4-j98C5r6s0755xHR1o6w3z23GyQ/viewform?usp=publish-editor)
+- January 12 - Tuesday, 8:45 - 9:15am.  [Sign up here](https://docs.google.com/forms/d/e/1FAIpQLSdMgWf2pWMVCymXhVHlLJJ9o2a0GYZCFWI_bJGwJbk_YlpBpA/viewform?usp=publish-editor)
 
 **Enrollment questions?** Please contact [PS290Enrollment@schools.nyc.gov](mailto:PS290Enrollment@schools.nyc.gov).
 
