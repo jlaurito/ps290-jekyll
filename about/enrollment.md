@@ -1,12 +1,4 @@
 ---
-// Removed content - saved for later:
-//
-// ## Fall 2026 Admissions
-//
-// **Kindergarten:** children born in 2021; application window is December 9 – January 23, 2026.
-// 
-// **3-K and Pre-K:** children born in 2023 (3-K) and 2022 (Pre-K 4s); apply January 14 – February 27, 2026.
-
 layout: page
 title: Enrollment
 section: About PS 290
